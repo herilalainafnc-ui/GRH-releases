@@ -7,11 +7,13 @@ Ce dépôt ne contient que les versions publiées de l'application.
 
 ## Télécharger
 
-Dernière version : **[page de la dernière version](../../releases/latest)**, fichier `grh-<version>-setup.exe`.
+Dernière version, toujours à la même adresse : **[grh-setup.exe](https://github.com/herilalainafnc-ui/GRH-releases/releases/latest/download/grh-setup.exe)**.
+
+Notes de version et anciennes versions : [toutes les versions](../../releases).
 
 ## Installer
 
-1. Ouvrez le fichier `grh-<version>-setup.exe` téléchargé.
+1. Ouvrez le fichier téléchargé (`grh-setup.exe`, ou `grh-<version>-setup.exe` pour une version précise).
 2. Si Windows affiche « Windows a protégé votre ordinateur », cliquez sur **Informations complémentaires**, puis sur
    **Exécuter quand même**. Cet avertissement vient de ce que l'installateur n'est pas encore signé numériquement.
 3. Suivez l'assistant : aucun droit d'administrateur n'est nécessaire.
