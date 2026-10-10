@@ -1,7 +1,7 @@
 # GRH — téléchargements
 
 **GRH** est l'application Windows de gestion des ressources humaines : personnel, présences et pointeuses, congés,
-paie, badges et documents RH, pensée pour les entreprises de Madagascar.
+paie, badges et documents RH.
 
 Ce dépôt ne contient que les versions publiées de l'application.
 
